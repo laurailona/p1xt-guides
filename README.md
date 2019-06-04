@@ -11,8 +11,8 @@ Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./p
 If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
 
 - [tier X - Math Prep](#tier-x---math-prep)
-- [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---programming-prep)
+- <s>[tier X - Programming Prep Prep](#tier-x---programming-prep-prep)</s>
+- <s>[tier 0 - Programming Prep](#tier-0---programming-prep)</s>
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
@@ -70,44 +70,6 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
 
-### Tier X - Programming Prep Prep
-
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
-
-### Tier 0 - Programming Prep
-
-Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and using the Editor of your choice
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |            |
-| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |            |
-| [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |            |
-| [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |            |
-| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |            |
-| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |            |
-| **Reading**                                                                                                                                                           | **Status** | **Evidence** |
-| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |            |
-| [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
-| [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |            |
-| [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
-| **Practice**                                                                                                                                                          | **Status** | **Evidence** |
-| [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
-| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
-| Tier Programming Project                                                                                                                                              |            |
-| Tier Programming Project                                                                                                                                              |            |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
 ### Tier 1 - Getting Started
 
